@@ -1,0 +1,7 @@
+streamlit
+openai
+numpy
+pandas
+nltk
+transformers
+streamlit-aggrid
