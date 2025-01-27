@@ -1,0 +1,27 @@
+GitHub Copilot vs Cursor AI
+
+Let's talk about AI coding assistants. They're basically the new hot topic in dev tools, and for good reason. They're designed to help developers write code more efficiently and with fewer errors. They're pretty dang cool.
+
+While there are quite a few players in this space, let's zoom in on two of the major contenders. In one corner, we've got GitHub Copilot, the established player. In the other, Cursor, the new kid on the block shaking things up. Both are trying to make our lives easier as developers.
+
+After spending some time with Copilot and Cursor, I thought it might be useful to break down how they stack up against each other. Whether you're curious about trying them out or just want to know what all the fuss is about, stick around. We're going to dig into some of the key features that matter to us as developers.
+
+Cursor AI
+Cursor is basically an AI-powered code editor on steroids. It is a fork of Visual Studio Code, bringing advanced AI capabilities to a familiar interface.
+
+GitHub Copilot
+GitHub Copilot is an AI coding assistant that helps you write code faster and with less effort, allowing you to focus more energy on problem solving and collaboration.
+Developed by GitHub in collaboration with OpenAI, it uses machine learning to generate code suggestions and complete tasks directly in your code editor (Visual Studio Code, Visual Studio, Vim/Neovim, JetBrains IDEs).
+
+Both Cursor AI and GitHub Copilot offer a range of features designed to enhance productivity and support developers. Let's dive into the specific features and see how these two compare by referring https://www.builder.io/blog/cursor-vs-github-copilot 
+
+Advantages of Copilot over Cursor AI:
+a) Has wider industry usage and support
+b) Support for existing IDEs would be good to developers who do not want to move away from their IDE of choice (The plugin for Eclipse does not work as expected though)
+c) Better for smaller scripts and projects
+d) Half the price of Cursor
+
+Advantages of Cursor AI over Copilot
+a) Better context aware results on larger projects
+b) Since it is part of the IDE, the usage is much more seamless
+c) Switch will not be difficult for developers on Visual Studio Code
